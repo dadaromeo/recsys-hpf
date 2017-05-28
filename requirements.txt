@@ -1,0 +1,8 @@
+numpy
+pandas
+tensorflow
+edward
+seaborn
+matplotlib
+pillow
+notebook
