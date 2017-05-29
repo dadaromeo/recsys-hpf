@@ -14,8 +14,11 @@ Notebooks
 ---------
 
 :code:`1. Merging.ipynb` contains the code for the merging of the data.
+
 :code:`2. Preprocessing.ipynb` conatins the code for some basic preprocessing.
+
 :code:`3. Modeling.ipynb` is the modeling part takes place.
+
 :code:`4. Results.ipynb` contains the visualizations of the results.
 
 References
