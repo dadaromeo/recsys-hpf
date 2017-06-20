@@ -1,14 +1,14 @@
 Movies Recommendation with Hierarchical Poisson Factorization in Edward
 =======================================================================
 
-This repository contains the data and the notebooks of this `post
-<https://dadaromeo.github.io/posts/movies-recommendation-with-hierarchical-poisson-factorization-in-edward>`_.
+This repository contains the data and the notebooks of an implementation of a model 
+described in [`1 <https://arxiv.org/abs/1311.1704>`_].
+The blog post is `here <https://dadaromeo.github.io/posts/movies-recommendation-with-hierarchical-poisson-factorization-in-edward>`_.
 
 Data
 ----
 
-The data is the movielens 2k dataset containing 855598 ratings for 2113 users from
-10197 movies.
+The data is the movielens 2k dataset by - `GroupLens <http://www.grouplens.org>`_ research group.
 
 Notebooks
 ---------
@@ -24,6 +24,6 @@ Notebooks
 References
 ----------
 
-- GroupLens research group, http://www.grouplens.org
-- IMDb website, http://www.imdb.com
-- Rotten Tomatoes website, http://www.rottentomatoes.com
+[1] P. Gopalan, J. Hofman, D. Blei. Sacalable Recommendation with Hierarchical 
+Poisson Factorization. Proceedings of the Thirty-First Conference on Uncertainty 
+in Artificial Intelligence. 2015
